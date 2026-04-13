@@ -11,22 +11,22 @@ The 19 Schwartz’s basic human values are described in [Refining the Theory of 
 | Self-direction–thought | Freedom to cultivate one’s own ideas and abilities |
 | Self-direction–action | Freedom to determine one’s own actions |
 | Stimulation | Excitement, novelty, and change |
-|         Hedonism          |             Pleasure and sensuous gratification              |
-|        Achievement        |            Success according to social standards             |
-|      Power–dominance      |         Power through exercising control over people         |
-|      Power–resources      |    Power through control of material and social resources    |
-|           Face            | Security and power through maintaining one’s public image and avoiding humiliation |
-|     Security–personal     |            Safety in one’s immediate environment             |
-|     Security–societal     |          Safety and stability in the wider society           |
-|         Tradition         | Maintaining and preserving cultural, family, or religious traditions |
-|     Conformity–rules      |     Compliance with rules, laws, and formal obligations      |
-| Conformity–interpersonal  |        Avoidance of upsetting or harming other people        |
-|         Humility          | Recognizing one’s insignificance in the larger scheme of things |
-| Benevolence–dependability |    Being a reliable and trustworthy member of the ingroup    |
-|    Benevolence–caring     |          Devotion to the welfare of ingroup members          |
-|   Universalism–concern    | Commitment to equality, justice, and protection for all people |
-|    Universalism–nature    |           Preservation of the natural environment            |
-|  Universalism–tolerance   | Acceptance and understanding of those who are different from oneself |
+| Hedonism | Pleasure and sensuous gratification |
+| Achievement | Success according to social standards |
+| Power–dominance | Power through exercising control over people |
+| Power–resources | Power through control of material and social resources |
+| Face | Security and power through maintaining one’s public image and avoiding humiliation |
+| Security–personal | Safety in one’s immediate environment |
+| Security–societal | Safety and stability in the wider society |
+| Tradition | Maintaining and preserving cultural, family, or religious traditions |
+| Conformity–rules | Compliance with rules, laws, and formal obligations |
+| Conformity–interpersonal | Avoidance of upsetting or harming other people |
+| Humility | Recognizing one’s insignificance in the larger scheme of things |
+| Benevolence–dependability | Being a reliable and trustworthy member of the ingroup |
+| Benevolence–caring | Devotion to the welfare of ingroup members |
+| Universalism–concern | Commitment to equality, justice, and protection for all people |
+| Universalism–nature | Preservation of the natural environment |
+| Universalism–tolerance | Acceptance and understanding of those who are different from oneself |
 
 This shared task consists of 2 tracks:
 
