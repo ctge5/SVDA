@@ -72,7 +72,7 @@ For submission, the following materials should be packaged as one `zip`/`7z`/`ta
 
 **Track 1:**
 
-The performance is evaluated by accuracy, precision, recall and F1.
+The performance is evaluated by accuracy, weighted precision, weighted recall and weighted F1-score.
 
 **Track 2:**
 
