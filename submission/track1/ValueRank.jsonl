@@ -49,7 +49,7 @@
 {"Value": "Conformity–rules"}
 {"Value": "Benevolence–dependability"}
 {"Value": "Power–resources"}
-{"Value": "Hedonism"}
+{"Value": "Conformity–interpersonal"}
 {"Value": "Conformity–rules"}
 {"Value": "Conformity–rules"}
 {"Value": "Conformity–rules"}
@@ -64,7 +64,7 @@
 {"Value": "Face"}
 {"Value": "Universalism–tolerance"}
 {"Value": "Stimulation"}
-{"Value": "Hedonism"}
+{"Value": "Security–personal"}
 {"Value": "Conformity–rules"}
 {"Value": "Benevolence–caring"}
 {"Value": "Universalism–nature"}
@@ -96,11 +96,11 @@
 {"Value": "Conformity–rules"}
 {"Value": "Face"}
 {"Value": "Benevolence–caring"}
-{"Value": "Self-direction–thought"}
+{"Value": "Universalism–tolerance"}
 {"Value": "Conformity–interpersonal"}
 {"Value": "Conformity–interpersonal"}
 {"Value": "Stimulation"}
-{"Value": "Universalism–nature"}
+{"Value": "Hedonism"}
 {"Value": "Universalism–concern"}
 {"Value": "Benevolence–caring"}
 {"Value": "Face"}
@@ -111,8 +111,8 @@
 {"Value": "Power–resources"}
 {"Value": "Achievement"}
 {"Value": "Hedonism"}
-{"Value": "Tradition"}
-{"Value": "Universalism–concern"}
+{"Value": "Face"}
+{"Value": "Benevolence–caring"}
 {"Value": "Tradition"}
 {"Value": "Benevolence–dependability"}
 {"Value": "Security–personal"}
@@ -121,7 +121,7 @@
 {"Value": "Power–resources"}
 {"Value": "Benevolence–caring"}
 {"Value": "Conformity–interpersonal"}
-{"Value": "Conformity–rules"}
+{"Value": "Achievement"}
 {"Value": "Conformity–rules"}
 {"Value": "Benevolence–caring"}
 {"Value": "Power–resources"}
@@ -139,9 +139,9 @@
 {"Value": "Face"}
 {"Value": "Tradition"}
 {"Value": "Tradition"}
-{"Value": "Achievement"}
+{"Value": "Face"}
 {"Value": "Conformity–rules"}
-{"Value": "Self-direction–action"}
+{"Value": "Self-direction–thought"}
 {"Value": "Universalism–concern"}
 {"Value": "Conformity–interpersonal"}
 {"Value": "Power–dominance"}
@@ -185,7 +185,7 @@
 {"Value": "Security–personal"}
 {"Value": "Stimulation"}
 {"Value": "Benevolence–caring"}
-{"Value": "Universalism–tolerance"}
+{"Value": "Benevolence–dependability"}
 {"Value": "Benevolence–caring"}
 {"Value": "Security–societal"}
 {"Value": "Stimulation"}
@@ -219,11 +219,11 @@
 {"Value": "Universalism–concern"}
 {"Value": "Stimulation"}
 {"Value": "Face"}
-{"Value": "Achievement"}
+{"Value": "Self-direction–thought"}
 {"Value": "Benevolence–caring"}
 {"Value": "Power–dominance"}
 {"Value": "Benevolence–dependability"}
-{"Value": "Hedonism"}
+{"Value": "Security–personal"}
 {"Value": "Security–personal"}
 {"Value": "Universalism–concern"}
 {"Value": "Achievement"}
@@ -250,7 +250,7 @@
 {"Value": "Benevolence–dependability"}
 {"Value": "Benevolence–dependability"}
 {"Value": "Stimulation"}
-{"Value": "Benevolence–caring"}
+{"Value": "Benevolence–dependability"}
 {"Value": "Universalism–concern"}
 {"Value": "Conformity–interpersonal"}
 {"Value": "Stimulation"}
@@ -270,7 +270,7 @@
 {"Value": "Achievement"}
 {"Value": "Tradition"}
 {"Value": "Universalism–concern"}
-{"Value": "Humility"}
+{"Value": "Conformity–interpersonal"}
 {"Value": "Benevolence–dependability"}
 {"Value": "Achievement"}
 {"Value": "Universalism–tolerance"}
@@ -282,7 +282,7 @@
 {"Value": "Power–dominance"}
 {"Value": "Universalism–concern"}
 {"Value": "Conformity–rules"}
-{"Value": "Conformity–interpersonal"}
+{"Value": "Humility"}
 {"Value": "Conformity–rules"}
 {"Value": "Face"}
 {"Value": "Benevolence–caring"}
@@ -313,7 +313,7 @@
 {"Value": "Stimulation"}
 {"Value": "Stimulation"}
 {"Value": "Self-direction–action"}
-{"Value": "Humility"}
+{"Value": "Benevolence–caring"}
 {"Value": "Conformity–rules"}
 {"Value": "Conformity–interpersonal"}
 {"Value": "Security–personal"}
@@ -335,7 +335,7 @@
 {"Value": "Conformity–rules"}
 {"Value": "Security–personal"}
 {"Value": "Benevolence–dependability"}
-{"Value": "Universalism–nature"}
+{"Value": "Security–societal"}
 {"Value": "Conformity–interpersonal"}
 {"Value": "Security–personal"}
 {"Value": "Benevolence–dependability"}
@@ -345,7 +345,7 @@
 {"Value": "Stimulation"}
 {"Value": "Stimulation"}
 {"Value": "Benevolence–caring"}
-{"Value": "Conformity–interpersonal"}
+{"Value": "Face"}
 {"Value": "Achievement"}
 {"Value": "Self-direction–thought"}
 {"Value": "Power–resources"}
@@ -412,7 +412,7 @@
 {"Value": "Benevolence–caring"}
 {"Value": "Benevolence–dependability"}
 {"Value": "Universalism–concern"}
-{"Value": "Self-direction–action"}
+{"Value": "Hedonism"}
 {"Value": "Conformity–interpersonal"}
 {"Value": "Power–resources"}
 {"Value": "Conformity–rules"}
@@ -440,10 +440,10 @@
 {"Value": "Conformity–rules"}
 {"Value": "Benevolence–dependability"}
 {"Value": "Conformity–interpersonal"}
-{"Value": "Achievement"}
+{"Value": "Power–resources"}
 {"Value": "Conformity–rules"}
 {"Value": "Conformity–interpersonal"}
-{"Value": "Self-direction–thought"}
+{"Value": "Self-direction–action"}
 {"Value": "Hedonism"}
 {"Value": "Stimulation"}
 {"Value": "Power–dominance"}
@@ -453,7 +453,7 @@
 {"Value": "Achievement"}
 {"Value": "Face"}
 {"Value": "Face"}
-{"Value": "Face"}
+{"Value": "Conformity–interpersonal"}
 {"Value": "Self-direction–action"}
 {"Value": "Conformity–interpersonal"}
 {"Value": "Stimulation"}
